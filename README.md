@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/iamanucool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamanucool" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anukuldiwane03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anukulfiwane03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anukul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anukul" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AnukulDiwane03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anukul" height="30" width="40" /></a>
 <a></a>
 </p>
 
